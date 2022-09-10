@@ -1,9 +1,8 @@
 # Gitties UI Library
  Made by Buismeis44#7596
  
- #How To create lib
+ --How To create lib
 
- --
  local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/yesman889/LIB/main/lib"))()
  
  local main = library:CREATEAPP("Gitty")
@@ -28,4 +27,3 @@ print(v)
 main:CREATETEXTBOX("Input", function(v)
  print(v)
 end)
---
